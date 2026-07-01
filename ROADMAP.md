@@ -2,13 +2,13 @@
 
 ## 🚀 v0.1.0 - Fundação do Projeto
 
-- [ ] Configuração inicial do projeto
-- [ ] Estrutura do backend (FastAPI)
-- [ ] Estrutura do frontend (React)
-- [ ] Docker e Docker Compose
-- [ ] PostgreSQL
-- [ ] Configuração de variáveis de ambiente
-- [ ] Integração Backend ↔ Frontend
+- [✔] Configuração inicial do projeto
+- [✔] Estrutura do backend (FastAPI)
+- [✔] Estrutura do frontend (React)
+- [✔] Docker e Docker Compose
+- [✔] PostgreSQL
+- [✔] Configuração de variáveis de ambiente
+- [✔] Integração Backend ↔ Frontend
 
 ---
 
